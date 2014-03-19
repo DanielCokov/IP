@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<entries>
+	
+	<order>
+		<item apple="4" />
+    	<item orange="2"/>
+    </order>
+    
+    <order>
+    	<item apple="1" />
+    	<item orange="4" />
+    </order>
+    
+    <order>
+    	<item apple="5" />
+    	<item orange="4" />
+    </order>
+    
+    <order>
+    	<item strawberry="6" />
+    	<item strawberry="4" />
+    </order>
+    	<item grape="9" />
+    	<item grape="1" />
+    	
+    
+</entries>
+
